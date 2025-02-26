@@ -17,12 +17,12 @@
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img 
     alt="GitHub Stats" 
-    height="130" 
+    height="150" 
     src="https://github-readme-stats.vercel.app/api?username=Guilhermetti&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   <img 
     alt="Top Langs" 
-    height="130" 
+    height="150" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermetti&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </div>
