@@ -61,12 +61,12 @@ Atualmente evoluindo para **Full-Stack** com **Next.js** (através do curso.dev)
 ## 🧪 Projeto em Destaque
 
 ### 🎯 FlexPerks (em desenvolvimento - pausado)
-Plataforma de **benefícios flexíveis** para empresas.
+Plataforma para gestão de **benefícios flexíveis** para empresas.
 
 - Back-End: **.NET 9**
 - Front-End: **Next.js**
 - Arquitetura: **DDD + CQRS + SOLID**
-- Objetivo: produto real + evolução técnica
+- Objetivo: produto real + evolução técnica + pensamento criativo
 
 🔗 **Repo:**  
 👉 https://github.com/Guilhermetti/flexperks-backend
