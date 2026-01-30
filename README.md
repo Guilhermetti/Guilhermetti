@@ -63,7 +63,7 @@ Atualmente evoluindo para **Full-Stack** com **Next.js** (através do curso.dev)
 ### 🎯 FlexPerks (em desenvolvimento - pausado)
 Plataforma de **benefícios flexíveis** para empresas.
 
-- Back-End: **.NET 8**
+- Back-End: **.NET 9**
 - Front-End: **Next.js**
 - Arquitetura: **DDD + CQRS + SOLID**
 - Objetivo: produto real + evolução técnica
