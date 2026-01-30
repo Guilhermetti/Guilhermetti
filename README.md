@@ -43,7 +43,7 @@ Atualmente evoluindo para **Full-Stack** com **Next.js** (através do curso.dev)
 </div>
 
 **Back-End**
-- C# • .NET 3 → 8 • ASP.NET Core  
+- C# • .NET 3 → 9 • ASP.NET Core  
 - EF Core • Dapper • SQL Server  
 - GraphQL • Swagger  
 - SignalR  
