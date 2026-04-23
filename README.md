@@ -1,7 +1,7 @@
 # Hello World
 Eu sou o **Matheus**
 
-Desenvolvedor **.NET Pleno**, focado em **APIs, microserviços e arquitetura limpa**, com experiência prática em domínios complexos como **logística internacional**, **ERP imobiliário** e **controle de acesso físico**.
+Desenvolvedor **.NET**, focado em **APIs, microserviços e arquitetura limpa**, com experiência prática em domínios complexos como **logística internacional**, **ERP imobiliário** e **controle de acesso físico**.
 
 Curto transformar regra de negócio confusa em **código simples, coeso e sustentável**.  
 Atualmente evoluindo para **Full-Stack** com **Next.js** (através do curso.dev), sem perder o carinho pelo back-end bem feito.
