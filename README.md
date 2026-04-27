@@ -27,7 +27,7 @@ Atualmente evoluindo para **Full-Stack** com **Next.js** (através do curso.dev)
 - DDD (Domain-Driven Design)  
 - CQRS  
 - SOLID  
-- TDD (quando faz sentido)
+- TDD (obrigação técnica, não mais filosofia, diante dos agentes e IAs)
 
 ---
 
